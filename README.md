@@ -1,33 +1,33 @@
-<h1 align="center">Hi, I'm <b>Tsegaye</b></h1>
-<h3 align="center">Software Developer | Backend • Frontend • AI • Data Analyst </h3>
+<h1 align="center">Hi, I'm <b>Amanuel</b></h1>
+<h3 align="center">Software Developer | Mobile app • Backend • AI • Data Analyst </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=520&lines=JavaScript+%7C+TypeScript+%7C+Python;Backend+Focused+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=520&lines=Kotlin+%7C+TypeScript+%7C+Python;Mobile+App+Developer" />
 </p>
 <br/>
 <p align="center" text="large">
   <span>portfolio: </span>
-  <a href="https://tsegish-portfolio.vercel.app/" target="_blank" >
-    tsegaye.me
+  <a href="https://amanuel-yosef-protifolio.netlify.app/" target="_blank" >
+    amanuel.me
   </a>
 </p>
 <br/><br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,postgres,supabase,firebase,jupyter" />
+  <img src="https://skillicons.dev/icons?i=kotlin,ts,python,react,nodejs,firebase" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend-0A0A0A?style=for-the-badge&logo=serverless&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DSA-111111?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/Mobile App-0A0A0A?style=for-the-badge&logo=serverless&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Clean Architeture-111111?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=tensorflow&logoColor=orange"/>
 </p>
 
 
 <!-- GitHub Stats Section -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tse-coder&theme=gruvbox" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tse-coder&theme=gruvbox" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tse-coder&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanuelyosef&theme=gruvbox" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amanuelyosef&theme=gruvbox" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanuelyosef&theme=tokyonight" />
 </p>
 
 <!-- Social Links -->
