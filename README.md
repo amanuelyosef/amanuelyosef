@@ -13,13 +13,13 @@
 </p>
 <br/><br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,flutter,ts,react,nodejs,firebase" />
+  <img src="https://skillicons.dev/icons?i=kotlin,flutter,ts,nodejs,firebase,react" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Mobile App-0A0A0A?style=for-the-badge&logo=serverless&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mobile App-0A0A0A?style=for-the-badge&logo=kotlin&logoColor=red"/>
   <img src="https://img.shields.io/badge/Clean Architeture-111111?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/Cross%20Platform%20Development-000000?style=for-the-badge&logo=tensorflow&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/Cross%20Platform%20Development-000000?style=for-the-badge&logo=serverless&logoColor=orange"/>
 </p>
 
 
