@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm <b>Amanuel</b></h1>
-<h3 align="center">Software Developer | Mobile app • Backend • AI • Data Analyst </h3>
+<h3 align="center">Software Developer | Mobile app • Backend • AI </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=520&lines=Kotlin+%7C+TypeScript+%7C+Python;Mobile+App+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=520&lines=Kotlin+%7C+Flutter+%7C+TypeScript;Mobile+App+Developer" />
 </p>
 <br/>
 <p align="center" text="large">
@@ -13,7 +13,7 @@
 </p>
 <br/><br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,ts,python,react,nodejs,firebase" />
+  <img src="https://skillicons.dev/icons?i=kotlin,flutter,ts,python,react,nodejs,firebase" />
 </p>
 
 <p align="center">
