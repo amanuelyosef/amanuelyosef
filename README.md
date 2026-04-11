@@ -32,10 +32,10 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://github.com/tse-coder">
+  <a href="https://github.com/amanuelyosef">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://t.me/t_s_e_g_a_y_e">
+  <a href="https://t.me/proaman777">
     <img src="https://skillicons.dev/icons?i=telegram" />
   </a>
 </p>
