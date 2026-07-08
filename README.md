@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm <b>Amanuel</b></h1>
-<h3 align="center">Software Developer | Mobile app • Backend • AI </h3>
+<h3 align="center">Software Developer | Mobile app • Backend • AI • MERN </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=520&lines=Kotlin+%7C+Flutter+%7C+TypeScript;Mobile+App+Developer" />
