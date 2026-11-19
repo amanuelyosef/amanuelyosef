@@ -4,11 +4,11 @@
 </p>
 
 <h1 align="center">Hi, I'm <b>Amanuel Yosef</b></h1>
-<h3 align="center">Software Engineer | Mobile • Backend • AI • Full-Stack</h3>
+<h3 align="center">AI Engineer & Software Developer | AI Agents • Applied ML • Full-Stack • Mobile</h3>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=7733EE&center=true&vCenter=true&width=600&lines=Mobile+%26+Full-Stack+Software+Engineer;AI+Agents+%E2%80%A2+Applied+ML+%E2%80%A2+Automation;Kotlin+%7C+Flutter+%7C+TypeScript+%7C+Python;Clean+Architecture+%26+Scalable+Backends" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=7733EE&center=true&vCenter=true&width=650&lines=AI+Engineer+%26+Intelligent+Systems+Builder;AI+Agents+%E2%80%A2+LLMs+%E2%80%A2+Voice+AI+%E2%80%A2+Automation;Applied+ML+%26+Computer+Vision+Pipelines;Python+%7C+PyTorch+%7C+TypeScript+%7C+Java+%7C+Kotlin+%7C+Flutter" alt="Typing SVG" />
 </p>
 
 <!-- Portfolio & Contact Badges -->
@@ -26,27 +26,28 @@
 
 <br/>
 
-<!-- What I Do -->
-### ⚡ What I Build
-- **AI & Intelligent Systems:** Designing AI agent workflows, LLM integrations, voice assistants, and computer vision pipelines with Python, PyTorch, and OpenCV.
-- **Mobile Engineering:** Building production-grade native Android (**Kotlin / Jetpack Compose**) and cross-platform (**Flutter**) applications using strict Clean Architecture.
-- **Full-Stack & Cloud:** Developing scalable web platforms and real-time backends with **React, TypeScript, Node.js, Express, MongoDB, and Firebase**.
+<!-- What I Build -->
+### 🧠 AI & Engineering Focus
+- **Agentic AI & LLM Workflows:** Architecting autonomous AI agents, tool-calling pipelines, LLM integrations, and real-time voice assistants built for production reliability.
+- **Applied ML & Computer Vision:** Developing deep learning models and vision pipelines using **Python, PyTorch, and OpenCV** for real-world automation.
+- **AI-Powered Full-Stack Systems:** Shipping scalable web platforms and real-time APIs that bring AI models into user-facing products using **TypeScript, React, Node.js, Express, MongoDB, and Firebase**.
+- **Production Mobile Engineering:** Building native Android (**Kotlin / Jetpack Compose**) and cross-platform (**Flutter**) apps grounded in Clean Architecture.
 
 <br/>
 
 <!-- Core Pillars Badges -->
 <p align="center">
+  <img src="https://img.shields.io/badge/AI%20Agents%20%26%20LLMs-111111?style=for-the-badge&logo=openai&logoColor=7733EE"/>
+  <img src="https://img.shields.io/badge/Applied%20ML%20%26%20Vision-0A0A0A?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
+  <img src="https://img.shields.io/badge/Full--Stack%20Systems-111111?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Mobile%20Engineering-0A0A0A?style=for-the-badge&logo=kotlin&logoColor=7F52FF"/>
-  <img src="https://img.shields.io/badge/AI%20%26%20Applied%20ML-111111?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
-  <img src="https://img.shields.io/badge/Clean%20Architecture-0A0A0A?style=for-the-badge&logo=android&logoColor=3DDC84"/>
-  <img src="https://img.shields.io/badge/Full--Stack%20MERN-111111?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
 <!-- Tech Stack Icons -->
 <h3 align="center">🛠️ Tech Stack & Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,dart,ts,react,tailwind,nodejs,express,mongodb,python,pytorch,opencv,firebase,git,linux&perline=8" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,ts,nodejs,express,mongodb,react,tailwind,java,kotlin,androidstudio,flutter,dart,firebase,git,linux&perline=9" alt="Tech Stack" />
 </p>
 
 <br/>
@@ -55,11 +56,10 @@
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanuelyosef&theme=tokyonight" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanuelyosef&theme=tokyonight" height="175" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amanuelyosef&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanuelyosef&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanuelyosef&theme=tokyonight&hide_border=true" height="175" />
 </p>
 
 <!-- Footer Wave -->
